@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, World! 😎
 
-<!--
-**carinadourado/carinadourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☝️ Vamos começar como todo iniciante por aqui, né? 
 
-Here are some ideas to get you started:
+Sou jornalista em Brasília - Brasil. Trabalho em TV, sou especializada em artes visuais e relações internacionais e atualmente estudo jornalismo de dados, automação e data storytelling, no Insper. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(e, sim, de alguma forma tudo isso faz sentindo na minha cabeça)*
+
+Aqui, você vai achar meus primeiros passos nesse universo de jornalismo de dados, programação em python e outros tipos de dicas para os iniciantes!
+_________________________________________________________________
+
+> Você pode me achar aqui também (falando de outros assuntos):
+> 
+> **Twitter:** https://twitter.com/carinadourado
+> 
+> **Instagram:** https://www.instagram.com/carina.dourado
+> 
+> **Medium:** https://carina-dourado.medium.com/
+> 
+> **Linkedin:** https://www.linkedin.com/in/carinadourado/
+> 
