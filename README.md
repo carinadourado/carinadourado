@@ -11,7 +11,7 @@ Não exija muito de mim, sou jornalista... mas com master em **Jornalismo de Dad
 Você pode me achar também:
 
 <div style="display: inline_block;" align="center"><br>
-  <a href="https://twitter.com/carinadourado" target="_blank"><img align="center" alt="Rafa-HTML" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/twitter_icon.png?raw=true"></a>
-  <a href="https://www.linkedin.com/in/carinadourado" target="_blank"><img align="center" alt="Rafa-CSS" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/linkedin_icon.png?raw=true"></a>
-  <a href="mailto:carina.dourado@gmail.com"><img align="center" alt="Rafa-Python" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/email_icon.png?raw=true"></a>
+  <a href="https://twitter.com/carinadourado" target="_blank"><img align="center" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/twitter_icon.jpg?raw=true"></a>
+  <a href="https://www.linkedin.com/in/carinadourado" target="_blank"><img align="center" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/linkedin_icon.png?raw=true"></a>
+  <a href="mailto:carina.dourado@gmail.com"><img align="center" height="60" width="60" src="https://github.com/carinadourado/carinadourado/blob/main/email_icon.png?raw=true"></a>
 </div>
