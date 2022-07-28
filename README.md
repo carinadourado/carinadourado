@@ -4,7 +4,7 @@
 
 Aqui você encontra alguns códigos desde que comecei a desenvolver e projetos em desenvolvimento. Tem Python, tem HTML, CSS e Javascript. Sempre tentando atualizar (juro!).
 
-Não exija muito de mim, sou jornalista... mas com master em **Jornalismo de Dados, Automação e Data Storytelling**, pelo [Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/) (tá vendo, já cresci no seu julgamento).
+Não exija muito de mim, sou jornalista... mas com master em **Jornalismo de Dados, Automação e Data Storytelling**, pelo [Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/) (tá vendo? Já cresci no seu julgamento).
 
 (Tenho ainda especialização em [Relações Internacionais (UnB)](http://irel.unb.br/) e [Artes Visuais (Senac)](https://www.ead.senac.br/pos-graduacao/gestao-cultural-cultura-desenvolvimento-e-mercado/). Trabalho na [TV Brasil](https://tvbrasil.ebc.com.br/) desde 2005 e experiência com agência de notícias e rádio. No fim, essa mistureba toda faz algum sentido na minha cabeça)
 
