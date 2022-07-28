@@ -1,4 +1,4 @@
-# Oi, eu sou a Carina
+# Oi, eu sou a Carina 👋
 
 ![https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true](https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true)
 
