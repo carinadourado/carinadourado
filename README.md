@@ -2,7 +2,7 @@
 
 ![https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true](https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true)
 
-Aqui você encontra alguns códigos desde que comecei a desenvolver e alguns projetos em desenvolvimento. Tem Python, tem HTML, CSS e Javascript. Sempre tentando atualizar (juro!).
+Aqui você encontra alguns códigos desde que comecei a desenvolver e projetos em desenvolvimento. Tem Python, tem HTML, CSS e Javascript. Sempre tentando atualizar (juro!).
 
 Não exija muito de mim, sou jornalista... mas com master em **Jornalismo de Dados, Automação e Data Storytelling**, pelo [Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/) (tá vendo, já cresci no seu julgamento).
 
