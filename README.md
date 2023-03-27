@@ -1,6 +1,7 @@
 # Oi, eu sou a Carina 👋
 
 ![https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true]
+(https://github.com/carinadourado/carinadourado/blob/main/header_git.gif?raw=true)
 
 Sou jornalista de dados, com master em **Jornalismo de Dados, Automação e Data Storytelling**, pelo [Insper](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/) e também especializada em [Relações Internacionais (UnB)](http://irel.unb.br/) e [Artes Visuais (Senac)](https://www.ead.senac.br/pos-graduacao/gestao-cultural-cultura-desenvolvimento-e-mercado/). Trabalho na [TV Brasil](https://tvbrasil.ebc.com.br/) desde 2005, atualmente coordenando o Núcleo de Programas Jornalísticos (de Brasília).
 
